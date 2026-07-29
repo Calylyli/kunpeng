@@ -1,0 +1,4 @@
+*.zip
+conv/conv2d_test
+trsm/trsm_test
+zgemm/zgemm_test

@@ -22,6 +22,7 @@
 - 编译：`gcc -O3 bench_conv.c conv2d.c -o conv2d_test -lm -fopenmp`
 - 验收：正确性校验通过后，按四个用例的总耗时排名
 - 提交：`conv` 目录须包含可完成编译和四项测试的 `run.sh`
+- 最终单独打包为单后缀 `conv.zip`；上传前用户需在平台勾选同意隐私声明。
 
 ## 测试用例
 

@@ -6,7 +6,7 @@ typedef float CONVFLOAT;
 typedef int CONVINT;
 
 #ifndef CONV_COLUMN_BLOCK
-#define CONV_COLUMN_BLOCK 1024
+#define CONV_COLUMN_BLOCK 8192
 #endif
 
 /*
